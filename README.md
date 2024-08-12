@@ -1,10 +1,10 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
-## AIM
+## AIM:
 
 To sketch the given drawing with dimensions using fusion 360 tool.
 
-## REQUIREMENTS
+## REQUIREMENTS:
 
   1. Autodesk fusion 360
   2. Windows 10
@@ -38,11 +38,17 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
-## SKETCHS
+## SKETCHS:
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
-## OUTPUT
+## OUTPUT:
+
+### DEVELOPED BY: HARINI R.
+
+### REGISTER NUMBER: 212223100010
+
+![EX 1 1_page-0001](https://github.com/user-attachments/assets/740d7789-04c2-4eb0-adb0-a62be09547db)
 
 
-## RESULT
+## RESULT:
 Thus the given sketch is drawn and drafted using fusion 360 tool.
